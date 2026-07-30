@@ -17,4 +17,4 @@ A beginner-friendly implementation of Linear Regression using Python, NumPy, and
 
 ## Output
 
-![Linear Regression Output](output.png)
+![Linear Regression Output](Figure_1.png)
