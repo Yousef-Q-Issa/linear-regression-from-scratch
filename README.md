@@ -1,2 +1,20 @@
-# linear-regression-from-scratch
-Simple Linear Regression implementation with data visualization and prediction using Python.
+# Linear Regression from Scratch
+
+A beginner-friendly implementation of Linear Regression using Python, NumPy, and Matplotlib.
+
+## Features
+
+- Load training data
+- Compute predictions using the equation:
+  f(x) = wx + b
+- Visualize the prediction line and training data
+
+## Technologies
+
+- Python
+- NumPy
+- Matplotlib
+
+## Output
+
+![Linear Regression Output](output.png)
