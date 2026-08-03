@@ -1,5 +1,4 @@
-# Linear Regression from Scratch
-
+# Implement Linear Regression from scratch with Gradient Descent
 A beginner-friendly implementation of Linear Regression using Python, NumPy, and Matplotlib.
 
 ## Features
